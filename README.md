@@ -1,3 +1,3 @@
-# ACESSO AO NODEMCU ESP-12E ATRAVÉS DO APLICATIVO TELEGRAM
+Acesso ao NodeMCU ESP-12E através do aplicativo Telegram
 
-##Prática desenvolvida como monitoria para a disciplina de Internet das Coisas em 2018.2. 
+Prática desenvolvida como monitoria para a disciplina de Internet das Coisas em 2018.2. 
